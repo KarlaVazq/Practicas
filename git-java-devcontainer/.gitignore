@@ -1,0 +1,17 @@
+# Salidas de compilación
+bin/
+out/
+build/
+target/
+*.class
+*.bin
+*.javac
+
+# Temporales de editores
+*.swp
+*~
+.idea/
+*.iml
+
+# Parches generados durante la práctica
+*.patch
